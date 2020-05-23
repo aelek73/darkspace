@@ -1,3 +1,7 @@
+p {
+  color: white;
+}
+
 html,
 body.mainbody,
 body.popupbody {
@@ -43,7 +47,7 @@ div#main_friendstitle .friendstitle {
   font-size: 15px;
 }
 #main_friends_all:hover a {
-  color: #eb7f08;
+  color: white;
 }
 div#main_friendscontent {
   background: white;
@@ -3367,7 +3371,7 @@ div.toolevents_buttons {
   font-weight: bold;
 }
 .toolheader_description .scenedesc_header a {
-  color: #757575;
+  color: white;
   line-height: 30px;
   text-decoration: none;
   white-space: nowrap;
@@ -5185,7 +5189,7 @@ span.colorbox.c31 {
 }
 section.scenes {
   overflow: hidden;
-  background-color: #4f4d4d;
+  background-color: #2c2c2c;
 }
 section.scenes h2 {
   margin-top: 30px;
@@ -5299,7 +5303,7 @@ section.scenes ul ul > li {
 section.tools {
   overflow: hidden;
   color: #464646;
-  background-color: white;
+  background-color: #2c2c2c;
   margin-bottom: 10px;
   margin-top: 30px;
   /* folder hack */
@@ -5740,7 +5744,7 @@ section.tools div.info span.field img {
 }
 section.tools div.info .none,
 section.tools div.info .more {
-  color: rgba(78, 78, 78, 0.85);
+  color: white;
 }
 section.tools div.info a:not(.imagebutton) {
   color: #494949;
@@ -5885,7 +5889,7 @@ section.members ul li a.userinfolink.linkbutton_highlighted {
   color: #eb7f08;
 }
 div.footerinfo {
-  color: #494949;
+  color: white;
   font-size: 13px;
 }
 /* Aside.left
@@ -5911,7 +5915,7 @@ aside.left h2 {
   font-family: 'Open Sans';
   margin-top: 30px;
   font-size: 16px;
-  color: #464646;
+  color: white;
   padding: 5px;
   text-transform: uppercase;
 }
@@ -5920,7 +5924,7 @@ aside.left a.btn_new {
   float: right;
   font-weight: normal;
   font-size: small;
-  color: #757575;
+  color: white;
   text-decoration: none;
   margin-top: 3px;
   text-transform: none;
@@ -5951,7 +5955,7 @@ aside.left a.btn_new:hover {
 
 ul.bigvmenu {
   list-style: none;
-  background: #575454;
+  background: #2c2c2c;
   /*&:hover li a {
 		color: @menu_text;
 		transition: color 0.5s;
