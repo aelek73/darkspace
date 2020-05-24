@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-<h1>Egyenlőre ne használjátok a vizsgák alatt bizonyos megjelenítési problémák miatt</h1>
+<h1>Egyenlőre ne használjátok a vizsgák alatt bizonyos megjelenítési problémák miatt, ezáltal felelőséget nem vállalok az esetleges elnézések miatt</h1>
 
 <h2>CooSpace Dark Theme</h2>
 <h4>Késő este is nyüstölöd a CooSpace-t és kiég a szemed?</h4>
