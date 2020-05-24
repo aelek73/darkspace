@@ -1,4 +1,37 @@
+#forum_newpost_div {
+    background-color: #1c1c21;
+}
+
+#forum_posts {
+    background-color: #1c1c21;
+}
+
+.forum-post-header-created-at {
+    color: white;
+}
+
+#task_newpost_div {
+    background-color: #1c1c21;
+}
+
+.attachments-file-name a {
+    color: white !important;
+}
+
+#newsboard_items {
+    background-color: #1c1c21;
+}
+
+.popupbody {
+    background-color: #1c1c21 !important;
+    color: white !important;
+}
+
 .label {
+    color: white !important;
+}
+
+#groups_table td {
     color: white !important;
 }
 
@@ -635,6 +668,15 @@ div.events_item{
     margin-top:2px;
     margin-bottom:2px
 }
+
+div.event-context a {
+    color: white !important;
+}
+
+div.event-comment {
+    color: white !important;
+}
+
 span.boxnum{
     display:inline-block;
     background:url(/$Theme-edu3$/Content/Theme/layout/boxnum.png) no-repeat;
@@ -925,7 +967,7 @@ table.monthcalendar tr.week td>span.task{
 table.monthcalendar td.day span span.eventlist{
     display:none;
     border:1px solid #b5b5b5;
-    background-color:#fff;
+    background-color:#2a2a30;
     position:absolute;
     width:auto;
     height:auto;
@@ -936,7 +978,7 @@ table.monthcalendar td.day span span.eventlist{
     z-index:11
 }
 table.monthcalendar td.day span span.eventlist a{
-    color:#494949;
+    color:white;
     display:block;
     padding-top:1px;
     padding-bottom:1px
@@ -1822,7 +1864,7 @@ a.button>span.icon{
     color:#eb7f08
 }
 .linkbutton16,.linkbutton16_disabled,.linkbutton18,.linkbutton18_disabled,.linkbutton24,.linkbutton24_disabled,.linkbutton32,.linkbutton32_disabled,.linkbutton35_disabled{
-    color:#494949;
+    color:white;
     display:inline-block;
     background:no-repeat left top;
     text-decoration:none;
@@ -3489,10 +3531,10 @@ body.fullwidth #wrapper{
     top:46px;
     right:4px;
     width:150px;
-    border-left:1px solid #b5b5b5;
-    border-right:1px solid #b5b5b5;
-    background-color:#fff;
-    color:#494949;
+    border-left:1px solid black;
+    border-right:1px solid black;
+    background-color:#1c1c21;
+    color: white;
     line-height:normal
 }
 #header1r .feedback .feedback_form input,#header1r .feedback .feedback_form textarea{
@@ -3609,7 +3651,8 @@ body.fullwidth #wrapper{
     left:-1px;
     overflow:hidden;
     line-height:35px;
-    background-color:#fff;
+    background-color:#1c1c21;
+    color: white;
     z-index:333
 }
 #header1r>.name div.menu div.info{
@@ -3681,10 +3724,10 @@ div.langs:hover div.menu{
 }
 div.langs div.menu{
     display:none;
-    border-left:1px solid #b5b5b5;
-    border-right:1px solid #b5b5b5;
-    border-bottom:1px solid #b5b5b5;
-    background-color:#fff;
+    border-left:1px solid black;
+    border-right:1px solid black;
+    border-bottom:1px solid black;
+    background-color:#1c1c21;
     clear:both;
     position:absolute;
     right:-1px;
@@ -5371,7 +5414,7 @@ div.onlineuser{
     border-right:1px solid #efefef;
     width:33%;
     box-sizing:border-box;
-    background-color:#fff;
+    background-color: #1c1c21;
     height:105px;
     margin-right:2px;
     margin-bottom:2px;
@@ -5403,7 +5446,7 @@ div.onlineuser div.picture{
     width:50px;
     height:100%;
     box-sizing:border-box;
-    background-color:#efefef
+    background-color: #2a2a30;
 }
 div.onlineuser div.picture img{
     border-radius:20px
@@ -5557,7 +5600,7 @@ div.dm_win>iframe{
     height:100%
 }
 .operations{
-    background-color:#fff;
+    background-color:#1c1c21;
     padding:5px 10px;
     border-top:1px solid #b5b5b5;
     overflow:hidden;
@@ -5614,7 +5657,7 @@ div.dm_win>iframe{
     background-position:left top
 }
 .control{
-    background-color:#403f3f;
+    background-color:#1c1c21;
     height:30px;
     text-align:center;
     clear:both;
@@ -7311,7 +7354,8 @@ label.label{
     display:block
 }
 .headline{
-    background-color:#efefef
+    background-color:#2c2c2c;
+    color: white;
 }
 .headline span{
     margin-left:5px
@@ -7689,8 +7733,8 @@ h2.icon{
     line-height:30px;
     display:inherit;
     border:0;
-    background:#494949;
-    color:#fff;
+    background: #2a2a30;
+    color: white !important;
     width:100%;
     padding:0;
     position:absolute!important
@@ -7704,10 +7748,10 @@ h2.icon{
     position:absolute;
     bottom:0;
     border:0;
-    background:#efefef
+    background: #2a2a30;
 }
 #picture_upload .qq-uploader .qq-upload-drop-area span{
-    color:#494949;
+    color:white;
     line-height:260px;
     background-position:center 0;
     padding:26px 0 0
@@ -7888,26 +7932,26 @@ div.pending{
     border-bottom:1px solid #efefef
 }
 #quota .leftlabel{
-    color:#eb7f08;
+    color: white;
     font-size:16px;
     font-weight:bold
 }
 #quota .leftlabel span{
-    color:#494949;
+    color:white;
     font-size:14px;
     font-weight:normal
 }
 #quota .rightlabel{
     float:right;
     padding-left:20px;
-    color:#494949;
+    color:white;
     font-size:14px
 }
 #quota .rightlabel span{
-    color:#464646
+    color: white;
 }
 #quota #quota_form{
-    color:#494949;
+    color:white;
     font-size:14px
 }
 #quota #quota_form input{

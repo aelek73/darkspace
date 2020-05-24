@@ -1,3 +1,4 @@
-background: #1C1C21
-not-important text: #b5b5b5
-important: white
+background: #1C1C21;
+not-important text: #b5b5b5;
+important-text: white;
+div-bg: #2a2a30;
