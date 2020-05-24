@@ -2427,11 +2427,11 @@ div.qq-attach-button {
   float: left;
   border-right: 10px solid white;
   line-height: 30px;
-  background: #efefef;
+  background: #403f3f;
   padding-left: 6px;
   padding-right: 6px;
   font-weight: normal;
-  color: #494949;
+  color: white;
   text-decoration: none;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -2460,7 +2460,7 @@ div.qq-attach-button a:hover {
   /*width:100%;*/
   height: 30px;
   /*z-index:2;*/
-  background-color: #efefef;
+  background-color: #403f3f;
   text-align: center;
 }
 .qq-upload-drop-area-active {
@@ -2473,7 +2473,7 @@ div.qq-attach-button a:hover {
   height: 30px;
   line-height: 30px;
   padding: 5px 0 5px 30px;
-  color: #494949;
+  color: white;
   background: url(/$Theme-edu3$/Content/Theme/new/39feltoltes.png) no-repeat left 2px;
 }
 .qq-upload-list {
@@ -3845,6 +3845,7 @@ body.mceContentBody td {
 * {
   margin: 0;
   padding: 0;
+  color: white;
 }
 header,
 nav,
@@ -4635,7 +4636,7 @@ span.langs a.lang_current {
   top: 5px;
   right: 0px;
   background-color: #575454;
-  border: 1px solid white;
+  border: 1px solid black;
   line-height: 22px;
   height: 22px;
   width: 180px;
@@ -4788,7 +4789,7 @@ h1,
   margin-bottom: 10px;
   font-family: 'Open Sans';
   font-size: large;
-  color: #757575;
+  color: white;
 }
 h1 .help,
 .popuphelp .help {
@@ -4889,7 +4890,7 @@ h1 a.back:hover,
 }
 h1 a,
 .popuphelp a {
-  color: #757575;
+  color: white;
   text-decoration: none;
 }
 h1 a:hover,
@@ -5142,7 +5143,7 @@ span.colorbox.c31 {
   background-position: left 6px;
 }
 .toollist ul li.scene_N span.title a {
-  color: #464646;
+  color: white;
   background-position: left -32px;
 }
 .toollist ul li.scene_X span.title a {
@@ -5686,7 +5687,7 @@ section.tools a.name {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  color: #464646;
+  color: white;
   max-width: calc(100% - 30px);
   box-sizing: border-box;
 }
@@ -5709,7 +5710,7 @@ section.tools a.opentool:hover {
 }
 section.tools div.info {
   margin-left: 10px;
-  color: #494949;
+  color: white;
   float: right;
   padding-top: 7px;
   font-size: small;
@@ -5747,7 +5748,7 @@ section.tools div.info .more {
   color: white;
 }
 section.tools div.info a:not(.imagebutton) {
-  color: #494949;
+  color: white;
   text-decoration: none;
   display: inline-block;
   max-width: 500px;
@@ -5826,7 +5827,7 @@ section.tools li:hover span.field {
   color: #494949;
 }
 section.members {
-  background-color: white;
+  background-color: #2c2c2c;
 }
 section.members h2 {
   font-size: x-large;
@@ -5857,7 +5858,7 @@ section.members h3 {
   margin-top: 20px;
   margin-bottom: 10px;
   font-size: 20px;
-  color: rgba(78, 78, 78, 0.85);
+  color: white;
   font-weight: normal;
   margin-left: 20px;
 }
@@ -5879,7 +5880,7 @@ section.members ul li a.userinfolink {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  color: #464646;
+  color: white;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left center;
@@ -6485,7 +6486,7 @@ div.dm_win > iframe {
   padding: 5px 10px;
   min-height: 26px;
   font-size: 18px;
-  color: #494949;
+  color: #403f3f;
   line-height: 30px;
   overflow: hidden;
 }
@@ -6803,6 +6804,7 @@ div.dm_win > iframe {
 #scenetreecontainer ul.compact .scene span.fav_code .code {
   font-size: 13px;
   float: none;
+  color: white;
 }
 #mergeheadercontainer ul.compact .scene span.categorychooser,
 #scenetreecontainer ul.compact .scene span.categorychooser {
