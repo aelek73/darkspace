@@ -1,3 +1,7 @@
+#div.boxcontent {
+    background-color: #1c1c21;
+}
+
 #forum_newpost_div {
     background-color: #1c1c21;
 }
@@ -43,7 +47,7 @@ body.popupbody{
     height:auto
 }
 body.mainbody{
-    background-color:White
+    background-color:#1c1c21;
 }
 div#main_friends{
     position:absolute;
